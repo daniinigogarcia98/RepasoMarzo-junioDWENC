@@ -1,0 +1,702 @@
+[
+  {
+    "Nombre": "Laura Fernández",
+    "Edad": 37,
+    "Cargo": "Desarrollador Backend",
+    "Salario": 98392,
+    "Departamento": "Desarrollo"
+  },
+  {
+    "Nombre": "Pablo Hernández",
+    "Edad": 34,
+    "Cargo": "Desarrollador Frontend",
+    "Salario": 88446,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "Miguel Ortiz",
+    "Edad": 56,
+    "Cargo": "Desarrollador Frontend",
+    "Salario": 102318,
+    "Departamento": "Marketing"
+  },
+  {
+    "Nombre": "Laura Fernández",
+    "Edad": 43,
+    "Cargo": "Científico de Datos",
+    "Salario": 38713,
+    "Departamento": "Marketing"
+  },
+  {
+    "Nombre": "Raquel Molina",
+    "Edad": 25,
+    "Cargo": "Diseñador UX/UI",
+    "Salario": 38260,
+    "Departamento": "Desarrollo"
+  },
+  {
+    "Nombre": "Pablo Hernández",
+    "Edad": 28,
+    "Cargo": "Desarrollador Backend",
+    "Salario": 94806,
+    "Departamento": "Finanzas"
+  },
+  {
+    "Nombre": "Luis Ramírez",
+    "Edad": 22,
+    "Cargo": "Administrador de Sistemas",
+    "Salario": 84974,
+    "Departamento": "Seguridad"
+  },
+  {
+    "Nombre": "María Gómez",
+    "Edad": 50,
+    "Cargo": "Diseñador UX/UI",
+    "Salario": 62395,
+    "Departamento": "Diseño"
+  },
+  {
+    "Nombre": "Carlos García",
+    "Edad": 34,
+    "Cargo": "Desarrollador Full Stack",
+    "Salario": 106564,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "Juan Sánchez",
+    "Edad": 57,
+    "Cargo": "Administrador de Sistemas",
+    "Salario": 113321,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "Luis Ramírez",
+    "Edad": 40,
+    "Cargo": "Especialista en Seguridad",
+    "Salario": 41992,
+    "Departamento": "Seguridad"
+  },
+  {
+    "Nombre": "José Pérez",
+    "Edad": 25,
+    "Cargo": "Gerente de Proyecto",
+    "Salario": 54887,
+    "Departamento": "Seguridad"
+  },
+  {
+    "Nombre": "Ana López",
+    "Edad": 58,
+    "Cargo": "Administrador de Sistemas",
+    "Salario": 55382,
+    "Departamento": "Marketing"
+  },
+  {
+    "Nombre": "Elena Díaz",
+    "Edad": 33,
+    "Cargo": "Especialista en Seguridad",
+    "Salario": 31353,
+    "Departamento": "Ventas"
+  },
+  {
+    "Nombre": "María Gómez",
+    "Edad": 33,
+    "Cargo": "Desarrollador Full Stack",
+    "Salario": 37588,
+    "Departamento": "Diseño"
+  },
+  {
+    "Nombre": "Carmen Morales",
+    "Edad": 41,
+    "Cargo": "Científico de Datos",
+    "Salario": 115654,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "José Pérez",
+    "Edad": 48,
+    "Cargo": "Desarrollador Backend",
+    "Salario": 52216,
+    "Departamento": "Seguridad"
+  },
+  {
+    "Nombre": "Carmen Morales",
+    "Edad": 48,
+    "Cargo": "Gerente de Proyecto",
+    "Salario": 114326,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "Fernando Alonso",
+    "Edad": 54,
+    "Cargo": "Desarrollador Backend",
+    "Salario": 86579,
+    "Departamento": "Marketing"
+  },
+  {
+    "Nombre": "Carmen Morales",
+    "Edad": 22,
+    "Cargo": "Analista de Datos",
+    "Salario": 66343,
+    "Departamento": "Recursos Humanos"
+  },
+  {
+    "Nombre": "Elena Díaz",
+    "Edad": 40,
+    "Cargo": "Especialista en Seguridad",
+    "Salario": 83636,
+    "Departamento": "Soporte Técnico"
+  },
+  {
+    "Nombre": "Pedro Martínez",
+    "Edad": 22,
+    "Cargo": "Diseñador UX/UI",
+    "Salario": 46551,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "José Pérez",
+    "Edad": 37,
+    "Cargo": "Ingeniero de Software",
+    "Salario": 50403,
+    "Departamento": "Ventas"
+  },
+  {
+    "Nombre": "Luis Ramírez",
+    "Edad": 38,
+    "Cargo": "Analista de Datos",
+    "Salario": 101707,
+    "Departamento": "Soporte Técnico"
+  },
+  {
+    "Nombre": "Pablo Hernández",
+    "Edad": 40,
+    "Cargo": "Desarrollador Frontend",
+    "Salario": 117795,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "Carmen Morales",
+    "Edad": 59,
+    "Cargo": "Científico de Datos",
+    "Salario": 30186,
+    "Departamento": "Seguridad"
+  },
+  {
+    "Nombre": "Raquel Molina",
+    "Edad": 53,
+    "Cargo": "Diseñador UX/UI",
+    "Salario": 106691,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "Ana López",
+    "Edad": 53,
+    "Cargo": "Desarrollador Backend",
+    "Salario": 42692,
+    "Departamento": "Desarrollo"
+  },
+  {
+    "Nombre": "Pablo Hernández",
+    "Edad": 45,
+    "Cargo": "Ingeniero de Software",
+    "Salario": 75477,
+    "Departamento": "Desarrollo"
+  },
+  {
+    "Nombre": "David Ruiz",
+    "Edad": 34,
+    "Cargo": "Desarrollador Frontend",
+    "Salario": 116990,
+    "Departamento": "Finanzas"
+  },
+  {
+    "Nombre": "Laura Fernández",
+    "Edad": 34,
+    "Cargo": "Desarrollador Frontend",
+    "Salario": 63984,
+    "Departamento": "Diseño"
+  },
+  {
+    "Nombre": "José Pérez",
+    "Edad": 33,
+    "Cargo": "Gerente de Proyecto",
+    "Salario": 69845,
+    "Departamento": "Soporte Técnico"
+  },
+  {
+    "Nombre": "Sofía Navarro",
+    "Edad": 34,
+    "Cargo": "Desarrollador Frontend",
+    "Salario": 98869,
+    "Departamento": "Diseño"
+  },
+  {
+    "Nombre": "Elena Díaz",
+    "Edad": 47,
+    "Cargo": "Desarrollador Frontend",
+    "Salario": 39492,
+    "Departamento": "Diseño"
+  },
+  {
+    "Nombre": "Fernando Alonso",
+    "Edad": 31,
+    "Cargo": "Científico de Datos",
+    "Salario": 39955,
+    "Departamento": "Recursos Humanos"
+  },
+  {
+    "Nombre": "José Pérez",
+    "Edad": 56,
+    "Cargo": "Ingeniero de Software",
+    "Salario": 65339,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "Javier Rivera",
+    "Edad": 22,
+    "Cargo": "Desarrollador Full Stack",
+    "Salario": 63028,
+    "Departamento": "Seguridad"
+  },
+  {
+    "Nombre": "Isabel Márquez",
+    "Edad": 51,
+    "Cargo": "Administrador de Sistemas",
+    "Salario": 56947,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "Miguel Ortiz",
+    "Edad": 29,
+    "Cargo": "Gerente de Proyecto",
+    "Salario": 97947,
+    "Departamento": "Soporte Técnico"
+  },
+  {
+    "Nombre": "Sofía Navarro",
+    "Edad": 48,
+    "Cargo": "Desarrollador Backend",
+    "Salario": 46183,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "Laura Fernández",
+    "Edad": 31,
+    "Cargo": "Desarrollador Full Stack",
+    "Salario": 46367,
+    "Departamento": "Soporte Técnico"
+  },
+  {
+    "Nombre": "Luis Ramírez",
+    "Edad": 23,
+    "Cargo": "Administrador de Sistemas",
+    "Salario": 68794,
+    "Departamento": "Desarrollo"
+  },
+  {
+    "Nombre": "Clara Castillo",
+    "Edad": 42,
+    "Cargo": "Ingeniero de Software",
+    "Salario": 66680,
+    "Departamento": "Finanzas"
+  },
+  {
+    "Nombre": "Isabel Márquez",
+    "Edad": 43,
+    "Cargo": "Analista de Datos",
+    "Salario": 94379,
+    "Departamento": "Soporte Técnico"
+  },
+  {
+    "Nombre": "José Pérez",
+    "Edad": 31,
+    "Cargo": "Científico de Datos",
+    "Salario": 58543,
+    "Departamento": "Seguridad"
+  },
+  {
+    "Nombre": "Javier Rivera",
+    "Edad": 51,
+    "Cargo": "Desarrollador Full Stack",
+    "Salario": 69306,
+    "Departamento": "Marketing"
+  },
+  {
+    "Nombre": "Pablo Hernández",
+    "Edad": 36,
+    "Cargo": "Ingeniero de Software",
+    "Salario": 81196,
+    "Departamento": "Finanzas"
+  },
+  {
+    "Nombre": "Raquel Molina",
+    "Edad": 40,
+    "Cargo": "Especialista en Seguridad",
+    "Salario": 94986,
+    "Departamento": "Ventas"
+  },
+  {
+    "Nombre": "Ana López",
+    "Edad": 42,
+    "Cargo": "Diseñador UX/UI",
+    "Salario": 54196,
+    "Departamento": "Recursos Humanos"
+  },
+  {
+    "Nombre": "María Gómez",
+    "Edad": 31,
+    "Cargo": "Diseñador UX/UI",
+    "Salario": 42229,
+    "Departamento": "Diseño"
+  },
+  {
+    "Nombre": "Sofía Navarro",
+    "Edad": 24,
+    "Cargo": "Analista de Datos",
+    "Salario": 50597,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "Carlos García",
+    "Edad": 60,
+    "Cargo": "Científico de Datos",
+    "Salario": 118089,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "Laura Fernández",
+    "Edad": 49,
+    "Cargo": "Analista de Datos",
+    "Salario": 91822,
+    "Departamento": "Seguridad"
+  },
+  {
+    "Nombre": "Clara Castillo",
+    "Edad": 60,
+    "Cargo": "Desarrollador Full Stack",
+    "Salario": 110097,
+    "Departamento": "Marketing"
+  },
+  {
+    "Nombre": "Javier Rivera",
+    "Edad": 46,
+    "Cargo": "Desarrollador Full Stack",
+    "Salario": 73862,
+    "Departamento": "Soporte Técnico"
+  },
+  {
+    "Nombre": "David Ruiz",
+    "Edad": 41,
+    "Cargo": "Especialista en Seguridad",
+    "Salario": 51330,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "Luis Ramírez",
+    "Edad": 56,
+    "Cargo": "Analista de Datos",
+    "Salario": 52670,
+    "Departamento": "Seguridad"
+  },
+  {
+    "Nombre": "Carmen Morales",
+    "Edad": 46,
+    "Cargo": "Científico de Datos",
+    "Salario": 47710,
+    "Departamento": "Finanzas"
+  },
+  {
+    "Nombre": "Carlos García",
+    "Edad": 38,
+    "Cargo": "Desarrollador Full Stack",
+    "Salario": 118950,
+    "Departamento": "Soporte Técnico"
+  },
+  {
+    "Nombre": "Sara Torres",
+    "Edad": 38,
+    "Cargo": "Especialista en Seguridad",
+    "Salario": 90352,
+    "Departamento": "Seguridad"
+  },
+  {
+    "Nombre": "Sofía Navarro",
+    "Edad": 39,
+    "Cargo": "Administrador de Sistemas",
+    "Salario": 71030,
+    "Departamento": "Seguridad"
+  },
+  {
+    "Nombre": "Miguel Ortiz",
+    "Edad": 30,
+    "Cargo": "Desarrollador Full Stack",
+    "Salario": 55864,
+    "Departamento": "Finanzas"
+  },
+  {
+    "Nombre": "José Pérez",
+    "Edad": 51,
+    "Cargo": "Desarrollador Frontend",
+    "Salario": 46907,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "David Ruiz",
+    "Edad": 27,
+    "Cargo": "Científico de Datos",
+    "Salario": 112608,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "Pedro Martínez",
+    "Edad": 38,
+    "Cargo": "Analista de Datos",
+    "Salario": 88501,
+    "Departamento": "Marketing"
+  },
+  {
+    "Nombre": "Elena Díaz",
+    "Edad": 38,
+    "Cargo": "Administrador de Sistemas",
+    "Salario": 69123,
+    "Departamento": "Seguridad"
+  },
+  {
+    "Nombre": "Pedro Martínez",
+    "Edad": 56,
+    "Cargo": "Ingeniero de Software",
+    "Salario": 63818,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "José Pérez",
+    "Edad": 46,
+    "Cargo": "Gerente de Proyecto",
+    "Salario": 82390,
+    "Departamento": "Ventas"
+  },
+  {
+    "Nombre": "Luis Ramírez",
+    "Edad": 24,
+    "Cargo": "Administrador de Sistemas",
+    "Salario": 72737,
+    "Departamento": "Soporte Técnico"
+  },
+  {
+    "Nombre": "Ana López",
+    "Edad": 35,
+    "Cargo": "Desarrollador Full Stack",
+    "Salario": 44815,
+    "Departamento": "Ventas"
+  },
+  {
+    "Nombre": "Miguel Ortiz",
+    "Edad": 56,
+    "Cargo": "Desarrollador Frontend",
+    "Salario": 101301,
+    "Departamento": "Diseño"
+  },
+  {
+    "Nombre": "Javier Rivera",
+    "Edad": 25,
+    "Cargo": "Desarrollador Backend",
+    "Salario": 74386,
+    "Departamento": "Finanzas"
+  },
+  {
+    "Nombre": "María Gómez",
+    "Edad": 23,
+    "Cargo": "Científico de Datos",
+    "Salario": 79573,
+    "Departamento": "Soporte Técnico"
+  },
+  {
+    "Nombre": "Juan Sánchez",
+    "Edad": 58,
+    "Cargo": "Administrador de Sistemas",
+    "Salario": 90862,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "Raquel Molina",
+    "Edad": 45,
+    "Cargo": "Desarrollador Backend",
+    "Salario": 82690,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "Elena Díaz",
+    "Edad": 43,
+    "Cargo": "Analista de Datos",
+    "Salario": 53602,
+    "Departamento": "Soporte Técnico"
+  },
+  {
+    "Nombre": "Carlos García",
+    "Edad": 42,
+    "Cargo": "Especialista en Seguridad",
+    "Salario": 113027,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "Miguel Ortiz",
+    "Edad": 47,
+    "Cargo": "Especialista en Seguridad",
+    "Salario": 106186,
+    "Departamento": "Diseño"
+  },
+  {
+    "Nombre": "Carlos García",
+    "Edad": 41,
+    "Cargo": "Especialista en Seguridad",
+    "Salario": 104755,
+    "Departamento": "Ventas"
+  },
+  {
+    "Nombre": "Elena Díaz",
+    "Edad": 34,
+    "Cargo": "Desarrollador Backend",
+    "Salario": 97223,
+    "Departamento": "Marketing"
+  },
+  {
+    "Nombre": "Raquel Molina",
+    "Edad": 55,
+    "Cargo": "Científico de Datos",
+    "Salario": 116488,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "Laura Fernández",
+    "Edad": 57,
+    "Cargo": "Desarrollador Frontend",
+    "Salario": 79500,
+    "Departamento": "Finanzas"
+  },
+  {
+    "Nombre": "José Pérez",
+    "Edad": 48,
+    "Cargo": "Diseñador UX/UI",
+    "Salario": 42567,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "Pablo Hernández",
+    "Edad": 38,
+    "Cargo": "Científico de Datos",
+    "Salario": 33614,
+    "Departamento": "Finanzas"
+  },
+  {
+    "Nombre": "Ana López",
+    "Edad": 36,
+    "Cargo": "Administrador de Sistemas",
+    "Salario": 71032,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "María Gómez",
+    "Edad": 42,
+    "Cargo": "Administrador de Sistemas",
+    "Salario": 116900,
+    "Departamento": "Ventas"
+  },
+  {
+    "Nombre": "Carlos García",
+    "Edad": 53,
+    "Cargo": "Especialista en Seguridad",
+    "Salario": 91104,
+    "Departamento": "Ventas"
+  },
+  {
+    "Nombre": "Carmen Morales",
+    "Edad": 32,
+    "Cargo": "Especialista en Seguridad",
+    "Salario": 67755,
+    "Departamento": "Marketing"
+  },
+  {
+    "Nombre": "Miguel Ortiz",
+    "Edad": 48,
+    "Cargo": "Desarrollador Frontend",
+    "Salario": 99792,
+    "Departamento": "Ventas"
+  },
+  {
+    "Nombre": "Miguel Ortiz",
+    "Edad": 27,
+    "Cargo": "Gerente de Proyecto",
+    "Salario": 80793,
+    "Departamento": "Finanzas"
+  },
+  {
+    "Nombre": "Carmen Morales",
+    "Edad": 40,
+    "Cargo": "Especialista en Seguridad",
+    "Salario": 65016,
+    "Departamento": "Finanzas"
+  },
+  {
+    "Nombre": "Elena Díaz",
+    "Edad": 28,
+    "Cargo": "Diseñador UX/UI",
+    "Salario": 61939,
+    "Departamento": "Desarrollo"
+  },
+  {
+    "Nombre": "María Gómez",
+    "Edad": 27,
+    "Cargo": "Diseñador UX/UI",
+    "Salario": 91096,
+    "Departamento": "Diseño"
+  },
+  {
+    "Nombre": "Sofía Navarro",
+    "Edad": 28,
+    "Cargo": "Gerente de Proyecto",
+    "Salario": 103162,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "Pedro Martínez",
+    "Edad": 60,
+    "Cargo": "Analista de Datos",
+    "Salario": 99058,
+    "Departamento": "Recursos Humanos"
+  },
+  {
+    "Nombre": "Sofía Navarro",
+    "Edad": 32,
+    "Cargo": "Ingeniero de Software",
+    "Salario": 48262,
+    "Departamento": "Ventas"
+  },
+  {
+    "Nombre": "Juan Sánchez",
+    "Edad": 30,
+    "Cargo": "Ingeniero de Software",
+    "Salario": 69038,
+    "Departamento": "Infraestructura"
+  },
+  {
+    "Nombre": "Miguel Ortiz",
+    "Edad": 52,
+    "Cargo": "Desarrollador Full Stack",
+    "Salario": 35611,
+    "Departamento": "Investigación y Desarrollo"
+  },
+  {
+    "Nombre": "Carlos García",
+    "Edad": 28,
+    "Cargo": "Administrador de Sistemas",
+    "Salario": 92805,
+    "Departamento": "Recursos Humanos"
+  },
+  {
+    "Nombre": "Juan Sánchez",
+    "Edad": 22,
+    "Cargo": "Ingeniero de Software",
+    "Salario": 110114,
+    "Departamento": "Seguridad"
+  }
+]

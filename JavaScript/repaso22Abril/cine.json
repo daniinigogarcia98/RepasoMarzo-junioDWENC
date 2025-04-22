@@ -1,0 +1,802 @@
+[
+  {
+    "Título": "The Godfather",
+    "Director": "Christopher Nolan",
+    "Actor": "Johnny Depp",
+    "Actriz": "Kate Winslet",
+    "Año": 1992,
+    "Minutos": 140
+  },
+  {
+    "Título": "La La Land",
+    "Director": "Steven Spielberg",
+    "Actor": "Christian Bale",
+    "Actriz": "Jennifer Lawrence",
+    "Año": 2003,
+    "Minutos": 173
+  },
+  {
+    "Título": "Gladiator",
+    "Director": "Francis Ford Coppola",
+    "Actor": "Christian Bale",
+    "Actriz": "Jennifer Lawrence",
+    "Año": 2010,
+    "Minutos": 140
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Quentin Tarantino",
+    "Actor": "Robert De Niro",
+    "Actriz": "Angelina Jolie",
+    "Año": 2008,
+    "Minutos": 147
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Quentin Tarantino",
+    "Actor": "Brad Pitt",
+    "Actriz": "Kate Winslet",
+    "Año": 1984,
+    "Minutos": 132
+  },
+  {
+    "Título": "Interstellar",
+    "Director": "Ridley Scott",
+    "Actor": "Denzel Washington",
+    "Actriz": "Sandra Bullock",
+    "Año": 2005,
+    "Minutos": 137
+  },
+  {
+    "Título": "La La Land",
+    "Director": "Martin Scorsese",
+    "Actor": "Christian Bale",
+    "Actriz": "Kate Winslet",
+    "Año": 2005,
+    "Minutos": 93
+  },
+  {
+    "Título": "Parasite",
+    "Director": "Christopher Nolan",
+    "Actor": "Will Smith",
+    "Actriz": "Charlize Theron",
+    "Año": 1982,
+    "Minutos": 120
+  },
+  {
+    "Título": "Inception",
+    "Director": "Bong Joon-ho",
+    "Actor": "Matt Damon",
+    "Actriz": "Scarlett Johansson",
+    "Año": 1982,
+    "Minutos": 176
+  },
+  {
+    "Título": "The Godfather",
+    "Director": "Christopher Nolan",
+    "Actor": "Robert De Niro",
+    "Actriz": "Emma Stone",
+    "Año": 1996,
+    "Minutos": 111
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Steven Spielberg",
+    "Actor": "Matt Damon",
+    "Actriz": "Sandra Bullock",
+    "Año": 1994,
+    "Minutos": 102
+  },
+  {
+    "Título": "Gladiator",
+    "Director": "Denis Villeneuve",
+    "Actor": "Robert De Niro",
+    "Actriz": "Kate Winslet",
+    "Año": 2020,
+    "Minutos": 128
+  },
+  {
+    "Título": "Gladiator",
+    "Director": "Bong Joon-ho",
+    "Actor": "Johnny Depp",
+    "Actriz": "Sandra Bullock",
+    "Año": 2018,
+    "Minutos": 128
+  },
+  {
+    "Título": "Eternal Sunshine",
+    "Director": "Bong Joon-ho",
+    "Actor": "Will Smith",
+    "Actriz": "Anne Hathaway",
+    "Año": 2001,
+    "Minutos": 99
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Wes Anderson",
+    "Actor": "Matt Damon",
+    "Actriz": "Kate Winslet",
+    "Año": 2005,
+    "Minutos": 156
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Steven Spielberg",
+    "Actor": "Robert De Niro",
+    "Actriz": "Angelina Jolie",
+    "Año": 1991,
+    "Minutos": 93
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Quentin Tarantino",
+    "Actor": "Al Pacino",
+    "Actriz": "Scarlett Johansson",
+    "Año": 1992,
+    "Minutos": 145
+  },
+  {
+    "Título": "Interstellar",
+    "Director": "Bong Joon-ho",
+    "Actor": "Matt Damon",
+    "Actriz": "Charlize Theron",
+    "Año": 1985,
+    "Minutos": 98
+  },
+  {
+    "Título": "Gladiator",
+    "Director": "Christopher Nolan",
+    "Actor": "Christian Bale",
+    "Actriz": "Meryl Streep",
+    "Año": 2003,
+    "Minutos": 179
+  },
+  {
+    "Título": "La La Land",
+    "Director": "Quentin Tarantino",
+    "Actor": "Matt Damon",
+    "Actriz": "Natalie Portman",
+    "Año": 1983,
+    "Minutos": 90
+  },
+  {
+    "Título": "Interstellar",
+    "Director": "Bong Joon-ho",
+    "Actor": "Brad Pitt",
+    "Actriz": "Scarlett Johansson",
+    "Año": 1989,
+    "Minutos": 144
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Bong Joon-ho",
+    "Actor": "Al Pacino",
+    "Actriz": "Sandra Bullock",
+    "Año": 1985,
+    "Minutos": 154
+  },
+  {
+    "Título": "Gladiator",
+    "Director": "Francis Ford Coppola",
+    "Actor": "Tom Hanks",
+    "Actriz": "Charlize Theron",
+    "Año": 1980,
+    "Minutos": 105
+  },
+  {
+    "Título": "La La Land",
+    "Director": "Bong Joon-ho",
+    "Actor": "Brad Pitt",
+    "Actriz": "Angelina Jolie",
+    "Año": 2017,
+    "Minutos": 180
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Francis Ford Coppola",
+    "Actor": "Will Smith",
+    "Actriz": "Natalie Portman",
+    "Año": 1980,
+    "Minutos": 136
+  },
+  {
+    "Título": "The Matrix",
+    "Director": "Wes Anderson",
+    "Actor": "Leonardo DiCaprio",
+    "Actriz": "Natalie Portman",
+    "Año": 2004,
+    "Minutos": 155
+  },
+  {
+    "Título": "Eternal Sunshine",
+    "Director": "Steven Spielberg",
+    "Actor": "Tom Hanks",
+    "Actriz": "Angelina Jolie",
+    "Año": 1983,
+    "Minutos": 111
+  },
+  {
+    "Título": "Titanic",
+    "Director": "James Cameron",
+    "Actor": "Denzel Washington",
+    "Actriz": "Charlize Theron",
+    "Año": 2011,
+    "Minutos": 142
+  },
+  {
+    "Título": "Eternal Sunshine",
+    "Director": "Steven Spielberg",
+    "Actor": "Leonardo DiCaprio",
+    "Actriz": "Emma Stone",
+    "Año": 2020,
+    "Minutos": 175
+  },
+  {
+    "Título": "Inception",
+    "Director": "Christopher Nolan",
+    "Actor": "Al Pacino",
+    "Actriz": "Natalie Portman",
+    "Año": 1998,
+    "Minutos": 133
+  },
+  {
+    "Título": "The Godfather",
+    "Director": "Francis Ford Coppola",
+    "Actor": "Tom Hanks",
+    "Actriz": "Sandra Bullock",
+    "Año": 1990,
+    "Minutos": 126
+  },
+  {
+    "Título": "Interstellar",
+    "Director": "Ridley Scott",
+    "Actor": "Will Smith",
+    "Actriz": "Charlize Theron",
+    "Año": 1986,
+    "Minutos": 147
+  },
+  {
+    "Título": "Eternal Sunshine",
+    "Director": "Martin Scorsese",
+    "Actor": "Denzel Washington",
+    "Actriz": "Charlize Theron",
+    "Año": 2020,
+    "Minutos": 123
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Christopher Nolan",
+    "Actor": "Johnny Depp",
+    "Actriz": "Anne Hathaway",
+    "Año": 1989,
+    "Minutos": 172
+  },
+  {
+    "Título": "Inception",
+    "Director": "Wes Anderson",
+    "Actor": "Denzel Washington",
+    "Actriz": "Angelina Jolie",
+    "Año": 2016,
+    "Minutos": 151
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Ridley Scott",
+    "Actor": "Christian Bale",
+    "Actriz": "Kate Winslet",
+    "Año": 2021,
+    "Minutos": 155
+  },
+  {
+    "Título": "Parasite",
+    "Director": "Ridley Scott",
+    "Actor": "Leonardo DiCaprio",
+    "Actriz": "Meryl Streep",
+    "Año": 2016,
+    "Minutos": 106
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Martin Scorsese",
+    "Actor": "Brad Pitt",
+    "Actriz": "Angelina Jolie",
+    "Año": 2007,
+    "Minutos": 177
+  },
+  {
+    "Título": "Interstellar",
+    "Director": "Quentin Tarantino",
+    "Actor": "Brad Pitt",
+    "Actriz": "Scarlett Johansson",
+    "Año": 2017,
+    "Minutos": 162
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Denis Villeneuve",
+    "Actor": "Matt Damon",
+    "Actriz": "Scarlett Johansson",
+    "Año": 2004,
+    "Minutos": 143
+  },
+  {
+    "Título": "The Matrix",
+    "Director": "Francis Ford Coppola",
+    "Actor": "Brad Pitt",
+    "Actriz": "Kate Winslet",
+    "Año": 2021,
+    "Minutos": 108
+  },
+  {
+    "Título": "Eternal Sunshine",
+    "Director": "Quentin Tarantino",
+    "Actor": "Brad Pitt",
+    "Actriz": "Jennifer Lawrence",
+    "Año": 2001,
+    "Minutos": 176
+  },
+  {
+    "Título": "The Godfather",
+    "Director": "Steven Spielberg",
+    "Actor": "Al Pacino",
+    "Actriz": "Jennifer Lawrence",
+    "Año": 1990,
+    "Minutos": 99
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Bong Joon-ho",
+    "Actor": "Will Smith",
+    "Actriz": "Kate Winslet",
+    "Año": 1982,
+    "Minutos": 166
+  },
+  {
+    "Título": "The Godfather",
+    "Director": "Steven Spielberg",
+    "Actor": "Al Pacino",
+    "Actriz": "Jennifer Lawrence",
+    "Año": 2008,
+    "Minutos": 138
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Steven Spielberg",
+    "Actor": "Will Smith",
+    "Actriz": "Natalie Portman",
+    "Año": 1983,
+    "Minutos": 169
+  },
+  {
+    "Título": "The Godfather",
+    "Director": "Martin Scorsese",
+    "Actor": "Christian Bale",
+    "Actriz": "Kate Winslet",
+    "Año": 1980,
+    "Minutos": 145
+  },
+  {
+    "Título": "The Godfather",
+    "Director": "Steven Spielberg",
+    "Actor": "Brad Pitt",
+    "Actriz": "Sandra Bullock",
+    "Año": 2023,
+    "Minutos": 108
+  },
+  {
+    "Título": "The Matrix",
+    "Director": "Wes Anderson",
+    "Actor": "Leonardo DiCaprio",
+    "Actriz": "Natalie Portman",
+    "Año": 1991,
+    "Minutos": 100
+  },
+  {
+    "Título": "Parasite",
+    "Director": "Denis Villeneuve",
+    "Actor": "Matt Damon",
+    "Actriz": "Anne Hathaway",
+    "Año": 1981,
+    "Minutos": 93
+  },
+  {
+    "Título": "The Matrix",
+    "Director": "Steven Spielberg",
+    "Actor": "Will Smith",
+    "Actriz": "Sandra Bullock",
+    "Año": 2003,
+    "Minutos": 157
+  },
+  {
+    "Título": "Gladiator",
+    "Director": "Quentin Tarantino",
+    "Actor": "Tom Hanks",
+    "Actriz": "Anne Hathaway",
+    "Año": 2017,
+    "Minutos": 150
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Martin Scorsese",
+    "Actor": "Johnny Depp",
+    "Actriz": "Natalie Portman",
+    "Año": 2012,
+    "Minutos": 153
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Bong Joon-ho",
+    "Actor": "Denzel Washington",
+    "Actriz": "Emma Stone",
+    "Año": 2023,
+    "Minutos": 111
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Ridley Scott",
+    "Actor": "Christian Bale",
+    "Actriz": "Natalie Portman",
+    "Año": 2018,
+    "Minutos": 143
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Steven Spielberg",
+    "Actor": "Matt Damon",
+    "Actriz": "Kate Winslet",
+    "Año": 1980,
+    "Minutos": 170
+  },
+  {
+    "Título": "The Godfather",
+    "Director": "James Cameron",
+    "Actor": "Tom Hanks",
+    "Actriz": "Jennifer Lawrence",
+    "Año": 1988,
+    "Minutos": 133
+  },
+  {
+    "Título": "Inception",
+    "Director": "Ridley Scott",
+    "Actor": "Christian Bale",
+    "Actriz": "Jennifer Lawrence",
+    "Año": 2012,
+    "Minutos": 117
+  },
+  {
+    "Título": "Interstellar",
+    "Director": "Quentin Tarantino",
+    "Actor": "Matt Damon",
+    "Actriz": "Scarlett Johansson",
+    "Año": 2016,
+    "Minutos": 125
+  },
+  {
+    "Título": "The Matrix",
+    "Director": "Quentin Tarantino",
+    "Actor": "Matt Damon",
+    "Actriz": "Anne Hathaway",
+    "Año": 2015,
+    "Minutos": 101
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Steven Spielberg",
+    "Actor": "Robert De Niro",
+    "Actriz": "Jennifer Lawrence",
+    "Año": 1986,
+    "Minutos": 171
+  },
+  {
+    "Título": "La La Land",
+    "Director": "Martin Scorsese",
+    "Actor": "Johnny Depp",
+    "Actriz": "Anne Hathaway",
+    "Año": 1994,
+    "Minutos": 93
+  },
+  {
+    "Título": "Eternal Sunshine",
+    "Director": "Wes Anderson",
+    "Actor": "Johnny Depp",
+    "Actriz": "Kate Winslet",
+    "Año": 1986,
+    "Minutos": 92
+  },
+  {
+    "Título": "The Godfather",
+    "Director": "Denis Villeneuve",
+    "Actor": "Christian Bale",
+    "Actriz": "Natalie Portman",
+    "Año": 1998,
+    "Minutos": 145
+  },
+  {
+    "Título": "Interstellar",
+    "Director": "Christopher Nolan",
+    "Actor": "Johnny Depp",
+    "Actriz": "Charlize Theron",
+    "Año": 2001,
+    "Minutos": 110
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Steven Spielberg",
+    "Actor": "Denzel Washington",
+    "Actriz": "Charlize Theron",
+    "Año": 1984,
+    "Minutos": 174
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "James Cameron",
+    "Actor": "Christian Bale",
+    "Actriz": "Sandra Bullock",
+    "Año": 2003,
+    "Minutos": 123
+  },
+  {
+    "Título": "The Matrix",
+    "Director": "Martin Scorsese",
+    "Actor": "Matt Damon",
+    "Actriz": "Sandra Bullock",
+    "Año": 2005,
+    "Minutos": 111
+  },
+  {
+    "Título": "La La Land",
+    "Director": "Denis Villeneuve",
+    "Actor": "Johnny Depp",
+    "Actriz": "Emma Stone",
+    "Año": 2006,
+    "Minutos": 97
+  },
+  {
+    "Título": "The Matrix",
+    "Director": "Francis Ford Coppola",
+    "Actor": "Robert De Niro",
+    "Actriz": "Kate Winslet",
+    "Año": 1996,
+    "Minutos": 163
+  },
+  {
+    "Título": "Eternal Sunshine",
+    "Director": "Steven Spielberg",
+    "Actor": "Denzel Washington",
+    "Actriz": "Charlize Theron",
+    "Año": 2014,
+    "Minutos": 102
+  },
+  {
+    "Título": "The Matrix",
+    "Director": "Quentin Tarantino",
+    "Actor": "Tom Hanks",
+    "Actriz": "Natalie Portman",
+    "Año": 1998,
+    "Minutos": 113
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Ridley Scott",
+    "Actor": "Denzel Washington",
+    "Actriz": "Kate Winslet",
+    "Año": 2003,
+    "Minutos": 163
+  },
+  {
+    "Título": "The Matrix",
+    "Director": "Martin Scorsese",
+    "Actor": "Christian Bale",
+    "Actriz": "Jennifer Lawrence",
+    "Año": 1987,
+    "Minutos": 112
+  },
+  {
+    "Título": "Interstellar",
+    "Director": "Quentin Tarantino",
+    "Actor": "Johnny Depp",
+    "Actriz": "Kate Winslet",
+    "Año": 2013,
+    "Minutos": 172
+  },
+  {
+    "Título": "Parasite",
+    "Director": "Francis Ford Coppola",
+    "Actor": "Will Smith",
+    "Actriz": "Meryl Streep",
+    "Año": 1987,
+    "Minutos": 141
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Denis Villeneuve",
+    "Actor": "Matt Damon",
+    "Actriz": "Charlize Theron",
+    "Año": 1989,
+    "Minutos": 117
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Denis Villeneuve",
+    "Actor": "Denzel Washington",
+    "Actriz": "Sandra Bullock",
+    "Año": 2023,
+    "Minutos": 95
+  },
+  {
+    "Título": "The Matrix",
+    "Director": "Quentin Tarantino",
+    "Actor": "Denzel Washington",
+    "Actriz": "Charlize Theron",
+    "Año": 2008,
+    "Minutos": 152
+  },
+  {
+    "Título": "Parasite",
+    "Director": "Martin Scorsese",
+    "Actor": "Al Pacino",
+    "Actriz": "Natalie Portman",
+    "Año": 2013,
+    "Minutos": 136
+  },
+  {
+    "Título": "Eternal Sunshine",
+    "Director": "Ridley Scott",
+    "Actor": "Leonardo DiCaprio",
+    "Actriz": "Natalie Portman",
+    "Año": 1985,
+    "Minutos": 131
+  },
+  {
+    "Título": "Eternal Sunshine",
+    "Director": "Quentin Tarantino",
+    "Actor": "Al Pacino",
+    "Actriz": "Sandra Bullock",
+    "Año": 2007,
+    "Minutos": 91
+  },
+  {
+    "Título": "Inception",
+    "Director": "Christopher Nolan",
+    "Actor": "Leonardo DiCaprio",
+    "Actriz": "Scarlett Johansson",
+    "Año": 2011,
+    "Minutos": 176
+  },
+  {
+    "Título": "Parasite",
+    "Director": "Martin Scorsese",
+    "Actor": "Matt Damon",
+    "Actriz": "Emma Stone",
+    "Año": 2001,
+    "Minutos": 161
+  },
+  {
+    "Título": "Gladiator",
+    "Director": "Denis Villeneuve",
+    "Actor": "Denzel Washington",
+    "Actriz": "Natalie Portman",
+    "Año": 2023,
+    "Minutos": 177
+  },
+  {
+    "Título": "Eternal Sunshine",
+    "Director": "Christopher Nolan",
+    "Actor": "Robert De Niro",
+    "Actriz": "Natalie Portman",
+    "Año": 2014,
+    "Minutos": 158
+  },
+  {
+    "Título": "Gladiator",
+    "Director": "James Cameron",
+    "Actor": "Johnny Depp",
+    "Actriz": "Sandra Bullock",
+    "Año": 2007,
+    "Minutos": 131
+  },
+  {
+    "Título": "Parasite",
+    "Director": "Wes Anderson",
+    "Actor": "Matt Damon",
+    "Actriz": "Kate Winslet",
+    "Año": 2004,
+    "Minutos": 177
+  },
+  {
+    "Título": "The Godfather",
+    "Director": "Wes Anderson",
+    "Actor": "Al Pacino",
+    "Actriz": "Meryl Streep",
+    "Año": 1992,
+    "Minutos": 165
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Steven Spielberg",
+    "Actor": "Will Smith",
+    "Actriz": "Jennifer Lawrence",
+    "Año": 2003,
+    "Minutos": 113
+  },
+  {
+    "Título": "Shutter Island",
+    "Director": "Denis Villeneuve",
+    "Actor": "Tom Hanks",
+    "Actriz": "Angelina Jolie",
+    "Año": 1994,
+    "Minutos": 144
+  },
+  {
+    "Título": "Inception",
+    "Director": "Francis Ford Coppola",
+    "Actor": "Robert De Niro",
+    "Actriz": "Scarlett Johansson",
+    "Año": 1998,
+    "Minutos": 137
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Martin Scorsese",
+    "Actor": "Tom Hanks",
+    "Actriz": "Angelina Jolie",
+    "Año": 2023,
+    "Minutos": 127
+  },
+  {
+    "Título": "Interstellar",
+    "Director": "Quentin Tarantino",
+    "Actor": "Christian Bale",
+    "Actriz": "Angelina Jolie",
+    "Año": 1985,
+    "Minutos": 110
+  },
+  {
+    "Título": "Parasite",
+    "Director": "Martin Scorsese",
+    "Actor": "Christian Bale",
+    "Actriz": "Emma Stone",
+    "Año": 1997,
+    "Minutos": 116
+  },
+  {
+    "Título": "Interstellar",
+    "Director": "Ridley Scott",
+    "Actor": "Matt Damon",
+    "Actriz": "Emma Stone",
+    "Año": 2021,
+    "Minutos": 171
+  },
+  {
+    "Título": "Titanic",
+    "Director": "Martin Scorsese",
+    "Actor": "Al Pacino",
+    "Actriz": "Meryl Streep",
+    "Año": 1997,
+    "Minutos": 109
+  },
+  {
+    "Título": "The Matrix",
+    "Director": "Francis Ford Coppola",
+    "Actor": "Leonardo DiCaprio",
+    "Actriz": "Emma Stone",
+    "Año": 2000,
+    "Minutos": 136
+  },
+  {
+    "Título": "Parasite",
+    "Director": "Ridley Scott",
+    "Actor": "Tom Hanks",
+    "Actriz": "Kate Winslet",
+    "Año": 1994,
+    "Minutos": 103
+  },
+  {
+    "Título": "Interstellar",
+    "Director": "Bong Joon-ho",
+    "Actor": "Denzel Washington",
+    "Actriz": "Natalie Portman",
+    "Año": 2023,
+    "Minutos": 96
+  }
+]

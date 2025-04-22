@@ -1,0 +1,27 @@
+[
+  {
+    "nombreCiudad": "Madrid",
+    "litrosLluvia": 20,
+    "temperaturaMax": 35,
+    "temperaturaMin": 12
+  },
+  {
+    "nombreCiudad": "Barcelona",
+    "litrosLluvia": 15,
+    "temperaturaMax": 40,
+    "temperaturaMin": 20
+  },
+  {
+    "nombreCiudad": "Valencia",
+    "litrosLluvia": 50,
+    "temperaturaMax": 32,
+    "temperaturaMin": 22
+  },
+  {
+    "nombreCiudad": "Sevilla",
+    "litrosLluvia": 10,
+    "temperaturaMax": 48,
+    "temperaturaMin": 18
+  }
+]
+

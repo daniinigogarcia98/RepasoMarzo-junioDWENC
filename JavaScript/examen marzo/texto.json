@@ -1,0 +1,23 @@
+[
+    {
+        "texto":"buenos días a 200ms ya estoy aquí ",
+        "velocidad":200
+    },
+    {
+        "texto":"hola holinchi a 5ms el país de los calaveras",
+        "velocidad":5
+    },
+
+    {
+        "texto":"ahora a 500ms el país de los calaveras",
+        "velocidad":500
+    },
+    {
+        "texto":"hola holinchi ahora a 1000 ms el país de los calaveras",
+        "velocidad":1000
+    },
+    {
+        "texto":"hola ahora a 2000 ms holinchi el país de los calaveras",
+        "velocidad":2000
+    }
+    ]
