@@ -1,0 +1,1353 @@
+[
+  {
+    "Pais": "Afganistán",
+    "Capital": "Kabul",
+    "Continente": "Asia",
+    "Población": 38041754,
+    "Superficie": 652230
+  },
+  {
+    "Pais": "Albania",
+    "Capital": "Tirana",
+    "Continente": "Europa",
+    "Población": 2862427,
+    "Superficie": 28748
+  },
+  {
+    "Pais": "Argelia",
+    "Capital": "Argel",
+    "Continente": "África",
+    "Población": 43000000,
+    "Superficie": 2381741
+  },
+  {
+    "Pais": "Andorra",
+    "Capital": "Andorra la Vella",
+    "Continente": "Europa",
+    "Población": 77006,
+    "Superficie": 468
+  },
+  {
+    "Pais": "Angola",
+    "Capital": "Luanda",
+    "Continente": "África",
+    "Población": 31825295,
+    "Superficie": 1246700
+  },
+  {
+    "Pais": "Antigua y Barbuda",
+    "Capital": "Saint John's",
+    "Continente": "América",
+    "Población": 97118,
+    "Superficie": 442
+  },
+  {
+    "Pais": "Argentina",
+    "Capital": "Buenos Aires",
+    "Continente": "América",
+    "Población": 44938712,
+    "Superficie": 2780400
+  },
+  {
+    "Pais": "Armenia",
+    "Capital": "Ereván",
+    "Continente": "Asia",
+    "Población": 2963243,
+    "Superficie": 29743
+  },
+  {
+    "Pais": "Australia",
+    "Capital": "Canberra",
+    "Continente": "Oceanía",
+    "Población": 25687041,
+    "Superficie": 7692024
+  },
+  {
+    "Pais": "Austria",
+    "Capital": "Viena",
+    "Continente": "Europa",
+    "Población": 8955102,
+    "Superficie": 83879
+  },
+  {
+    "Pais": "Azerbaiyán",
+    "Capital": "Bakú",
+    "Continente": "Asia",
+    "Población": 10067108,
+    "Superficie": 86600
+  },
+  {
+    "Pais": "Bahamas",
+    "Capital": "Nasáu",
+    "Continente": "América",
+    "Población": 389482,
+    "Superficie": 13880
+  },
+  {
+    "Pais": "Baréin",
+    "Capital": "Manama",
+    "Continente": "Asia",
+    "Población": 1569439,
+    "Superficie": 760
+  },
+  {
+    "Pais": "Bangladés",
+    "Capital": "Daca",
+    "Continente": "Asia",
+    "Población": 163046161,
+    "Superficie": 147570
+  },
+  {
+    "Pais": "Barbados",
+    "Capital": "Bridgetown",
+    "Continente": "América",
+    "Población": 287371,
+    "Superficie": 430
+  },
+  {
+    "Pais": "Bielorrusia",
+    "Capital": "Minsk",
+    "Continente": "Europa",
+    "Población": 9466856,
+    "Superficie": 207600
+  },
+  {
+    "Pais": "Bélgica",
+    "Capital": "Bruselas",
+    "Continente": "Europa",
+    "Población": 11589623,
+    "Superficie": 30528
+  },
+  {
+    "Pais": "Belice",
+    "Capital": "Belmopán",
+    "Continente": "América",
+    "Población": 390353,
+    "Superficie": 22966
+  },
+  {
+    "Pais": "Benín",
+    "Capital": "Porto Novo",
+    "Continente": "África",
+    "Población": 12123198,
+    "Superficie": 112622
+  },
+  {
+    "Pais": "Bután",
+    "Capital": "Timbu",
+    "Continente": "Asia",
+    "Población": 763092,
+    "Superficie": 38394
+  },
+  {
+    "Pais": "Bolivia",
+    "Capital": "Sucre",
+    "Continente": "América",
+    "Población": 11513100,
+    "Superficie": 1098581
+  },
+  {
+    "Pais": "Bosnia y Herzegovina",
+    "Capital": "Sarajevo",
+    "Continente": "Europa",
+    "Población": 3301000,
+    "Superficie": 51197
+  },
+  {
+    "Pais": "Botsuana",
+    "Capital": "Gaborone",
+    "Continente": "África",
+    "Población": 2303820,
+    "Superficie": 581730
+  },
+  {
+    "Pais": "Brasil",
+    "Capital": "Brasilia",
+    "Continente": "América",
+    "Población": 212559417,
+    "Superficie": 8515770
+  },
+  {
+    "Pais": "Brunéi",
+    "Capital": "Bandar Seri Begawan",
+    "Continente": "Asia",
+    "Población": 433285,
+    "Superficie": 5765
+  },
+  {
+    "Pais": "Bulgaria",
+    "Capital": "Sofía",
+    "Continente": "Europa",
+    "Población": 7000119,
+    "Superficie": 110879
+  },
+  {
+    "Pais": "Burkina Faso",
+    "Capital": "Uagadugú",
+    "Continente": "África",
+    "Población": 20321383,
+    "Superficie": 274200
+  },
+  {
+    "Pais": "Burundi",
+    "Capital": "Gitega",
+    "Continente": "África",
+    "Población": 11890784,
+    "Superficie": 27834
+  },
+  {
+    "Pais": "Camboya",
+    "Capital": "Nom Pen",
+    "Continente": "Asia",
+    "Población": 16486542,
+    "Superficie": 181035
+  },
+  {
+    "Pais": "Camerún",
+    "Capital": "Yaundé",
+    "Continente": "África",
+    "Población": 26545863,
+    "Superficie": 475442
+  },
+  {
+    "Pais": "Canadá",
+    "Capital": "Ottawa",
+    "Continente": "América",
+    "Población": 37961548,
+    "Superficie": 9984670
+  },
+  {
+    "Pais": "Cabo Verde",
+    "Capital": "Praia",
+    "Continente": "África",
+    "Población": 556857,
+    "Superficie": 4033
+  },
+  {
+    "Pais": "República Centroafricana",
+    "Capital": "Bangui",
+    "Continente": "África",
+    "Población": 4829767,
+    "Superficie": 622984
+  },
+  {
+    "Pais": "Chad",
+    "Capital": "Yamena",
+    "Continente": "África",
+    "Población": 15946876,
+    "Superficie": 1284000
+  },
+  {
+    "Pais": "Chile",
+    "Capital": "Santiago",
+    "Continente": "América",
+    "Población": 19107216,
+    "Superficie": 756102
+  },
+  {
+    "Pais": "China",
+    "Capital": "Pekín",
+    "Continente": "Asia",
+    "Población": 1433783686,
+    "Superficie": 9596960
+  },
+  {
+    "Pais": "Colombia",
+    "Capital": "Bogotá",
+    "Continente": "América",
+    "Población": 50339443,
+    "Superficie": 1141748
+  },
+  {
+    "Pais": "Comoras",
+    "Capital": "Moroni",
+    "Continente": "África",
+    "Población": 850886,
+    "Superficie": 1862
+  },
+  {
+    "Pais": "República Democrática del Congo",
+    "Capital": "Kinshasa",
+    "Continente": "África",
+    "Población": 86790567,
+    "Superficie": 2344858
+  },
+  {
+    "Pais": "República del Congo",
+    "Capital": "Brazzaville",
+    "Continente": "África",
+    "Población": 5380508,
+    "Superficie": 342000
+  },
+  {
+    "Pais": "Costa Rica",
+    "Capital": "San José",
+    "Continente": "América",
+    "Población": 5047561,
+    "Superficie": 51100
+  },
+  {
+    "Pais": "Croacia",
+    "Capital": "Zagreb",
+    "Continente": "Europa",
+    "Población": 4105267,
+    "Superficie": 56594
+  },
+  {
+    "Pais": "Cuba",
+    "Capital": "La Habana",
+    "Continente": "América",
+    "Población": 11333483,
+    "Superficie": 110860
+  },
+  {
+    "Pais": "Chipre",
+    "Capital": "Nicosia",
+    "Continente": "Europa",
+    "Población": 1179551,
+    "Superficie": 9251
+  },
+  {
+    "Pais": "República Checa",
+    "Capital": "Praga",
+    "Continente": "Europa",
+    "Población": 10649800,
+    "Superficie": 78865
+  },
+  {
+    "Pais": "Dinamarca",
+    "Capital": "Copenhague",
+    "Continente": "Europa",
+    "Población": 5818553,
+    "Superficie": 43094
+  },
+  {
+    "Pais": "Yibuti",
+    "Capital": "Yibuti",
+    "Continente": "África",
+    "Población": 973560,
+    "Superficie": 23200
+  },
+  {
+    "Pais": "Dominica",
+    "Capital": "Roseau",
+    "Continente": "América",
+    "Población": 71625,
+    "Superficie": 751
+  },
+  {
+    "Pais": "República Dominicana",
+    "Capital": "Santo Domingo",
+    "Continente": "América",
+    "Población": 10738958,
+    "Superficie": 48671
+  },
+  {
+    "Pais": "Timor Oriental",
+    "Capital": "Dili",
+    "Continente": "Asia",
+    "Población": 1296311,
+    "Superficie": 14874
+  },
+  {
+    "Pais": "Ecuador",
+    "Capital": "Quito",
+    "Continente": "América",
+    "Población": 17373662,
+    "Superficie": 276841
+  },
+  {
+    "Pais": "Egipto",
+    "Capital": "El Cairo",
+    "Continente": "África",
+    "Población": 100388073,
+    "Superficie": 1002450
+  },
+  {
+    "Pais": "El Salvador",
+    "Capital": "San Salvador",
+    "Continente": "América",
+    "Población": 6486205,
+    "Superficie": 21041
+  },
+  {
+    "Pais": "Guinea Ecuatorial",
+    "Capital": "Malabo",
+    "Continente": "África",
+    "Población": 1355986,
+    "Superficie": 28051
+  },
+  {
+    "Pais": "Eritrea",
+    "Capital": "Asmara",
+    "Continente": "África",
+    "Población": 3497117,
+    "Superficie": 117600
+  },
+  {
+    "Pais": "Estonia",
+    "Capital": "Tallin",
+    "Continente": "Europa",
+    "Población": 1326535,
+    "Superficie": 45227
+  },
+  {
+    "Pais": "Eswatini",
+    "Capital": "Mbabane",
+    "Continente": "África",
+    "Población": 1415414,
+    "Superficie": 17364
+  },
+  {
+    "Pais": "Etiopía",
+    "Capital": "Adís Abeba",
+    "Continente": "África",
+    "Población": 112078730,
+    "Superficie": 1104300
+  },
+  {
+    "Pais": "Fiyi",
+    "Capital": "Suva",
+    "Continente": "Oceanía",
+    "Población": 896445,
+    "Superficie": 18274
+  },
+  {
+    "Pais": "Finlandia",
+    "Capital": "Helsinki",
+    "Continente": "Europa",
+    "Población": 5540720,
+    "Superficie": 338424
+  },
+  {
+    "Pais": "Francia",
+    "Capital": "París",
+    "Continente": "Europa",
+    "Población": 65273511,
+    "Superficie": 551695
+  },
+  {
+    "Pais": "Gabón",
+    "Capital": "Libreville",
+    "Continente": "África",
+    "Población": 2225734,
+    "Superficie": 267667
+  },
+  {
+    "Pais": "Gambia",
+    "Capital": "Banjul",
+    "Continente": "África",
+    "Población": 2347706,
+    "Superficie": 11295
+  },
+  {
+    "Pais": "Georgia",
+    "Capital": "Tiflis",
+    "Continente": "Asia",
+    "Población": 3989167,
+    "Superficie": 69700
+  },
+  {
+    "Pais": "Alemania",
+    "Capital": "Berlín",
+    "Continente": "Europa",
+    "Población": 83783942,
+    "Superficie": 357022
+  },
+  {
+    "Pais": "Ghana",
+    "Capital": "Acra",
+    "Continente": "África",
+    "Población": 31072940,
+    "Superficie": 238533
+  },
+  {
+    "Pais": "Grecia",
+    "Capital": "Atenas",
+    "Continente": "Europa",
+    "Población": 10423054,
+    "Superficie": 131957
+  },
+  {
+    "Pais": "Granada",
+    "Capital": "Saint George's",
+    "Continente": "América",
+    "Población": 112523,
+    "Superficie": 344
+  },
+  {
+    "Pais": "Guatemala",
+    "Capital": "Ciudad de Guatemala",
+    "Continente": "América",
+    "Población": 17581472,
+    "Superficie": 108889
+  },
+  {
+    "Pais": "Guinea",
+    "Capital": "Conakri",
+    "Continente": "África",
+    "Población": 12771246,
+    "Superficie": 245857
+  },
+  {
+    "Pais": "Guinea-Bisáu",
+    "Capital": "Bisáu",
+    "Continente": "África",
+    "Población": 1609406,
+    "Superficie": 36125
+  },
+  {
+    "Pais": "Guyana",
+    "Capital": "Georgetown",
+    "Continente": "América",
+    "Población": 782766,
+    "Superficie": 214969
+  },
+  {
+    "Pais": "Haití",
+    "Capital": "Puerto Príncipe",
+    "Continente": "América",
+    "Población": 11263077,
+    "Superficie": 27750
+  },
+  {
+    "Pais": "Honduras",
+    "Capital": "Tegucigalpa",
+    "Continente": "América",
+    "Población": 9746117,
+    "Superficie": 112492
+  },
+  {
+    "Pais": "Hungría",
+    "Capital": "Budapest",
+    "Continente": "Europa",
+    "Población": 9660351,
+    "Superficie": 93028
+  },
+  {
+    "Pais": "Islandia",
+    "Capital": "Reikiavik",
+    "Continente": "Europa",
+    "Población": 339031,
+    "Superficie": 103000
+  },
+  {
+    "Pais": "India",
+    "Capital": "Nueva Delhi",
+    "Continente": "Asia",
+    "Población": 1366417754,
+    "Superficie": 3287240
+  },
+  {
+    "Pais": "Indonesia",
+    "Capital": "Yakarta",
+    "Continente": "Asia",
+    "Población": 270625568,
+    "Superficie": 1904569
+  },
+  {
+    "Pais": "Irán",
+    "Capital": "Teherán",
+    "Continente": "Asia",
+    "Población": 82913906,
+    "Superficie": 1648195
+  },
+  {
+    "Pais": "Iraq",
+    "Capital": "Bagdad",
+    "Continente": "Asia",
+    "Población": 39309783,
+    "Superficie": 438317
+  },
+  {
+    "Pais": "Irlanda",
+    "Capital": "Dublín",
+    "Continente": "Europa",
+    "Población": 4921500,
+    "Superficie": 70273
+  },
+  {
+    "Pais": "Israel",
+    "Capital": "Jerusalén",
+    "Continente": "Asia",
+    "Población": 9053300,
+    "Superficie": 20770
+  },
+  {
+    "Pais": "Italia",
+    "Capital": "Roma",
+    "Continente": "Europa",
+    "Población": 60550075,
+    "Superficie": 301340
+  },
+  {
+    "Pais": "Costa de Marfil",
+    "Capital": "Yamusukro",
+    "Continente": "África",
+    "Población": 25716544,
+    "Superficie": 322463
+  },
+  {
+    "Pais": "Jamaica",
+    "Capital": "Kingston",
+    "Continente": "América",
+    "Población": 2934855,
+    "Superficie": 10991
+  },
+  {
+    "Pais": "Japón",
+    "Capital": "Tokio",
+    "Continente": "Asia",
+    "Población": 126476461,
+    "Superficie": 377930
+  },
+  {
+    "Pais": "Jordania",
+    "Capital": "Amán",
+    "Continente": "Asia",
+    "Población": 10101694,
+    "Superficie": 89342
+  },
+  {
+    "Pais": "Kazajistán",
+    "Capital": "Nur-Sultán",
+    "Continente": "Asia",
+    "Población": 18513673,
+    "Superficie": 2724900
+  },
+  {
+    "Pais": "Kenia",
+    "Capital": "Nairobi",
+    "Continente": "África",
+    "Población": 52573973,
+    "Superficie": 580367
+  },
+  {
+    "Pais": "Kiribati",
+    "Capital": "Tarawa",
+    "Continente": "Oceanía",
+    "Población": 119449,
+    "Superficie": 811
+  },
+  {
+    "Pais": "Kuwait",
+    "Capital": "Kuwait",
+    "Continente": "Asia",
+    "Población": 4207083,
+    "Superficie": 17818
+  },
+  {
+    "Pais": "Kirguistán",
+    "Capital": "Biskek",
+    "Continente": "Asia",
+    "Población": 6524195,
+    "Superficie": 199951
+  },
+  {
+    "Pais": "Laos",
+    "Capital": "Vientián",
+    "Continente": "Asia",
+    "Población": 7169455,
+    "Superficie": 236800
+  },
+  {
+    "Pais": "Letonia",
+    "Capital": "Riga",
+    "Continente": "Europa",
+    "Población": 1919248,
+    "Superficie": 64589
+  },
+  {
+    "Pais": "Líbano",
+    "Capital": "Beirut",
+    "Continente": "Asia",
+    "Población": 6855713,
+    "Superficie": 10452
+  },
+  {
+    "Pais": "Lesoto",
+    "Capital": "Maseru",
+    "Continente": "África",
+    "Población": 2125268,
+    "Superficie": 30355
+  },
+  {
+    "Pais": "Liberia",
+    "Capital": "Monrovia",
+    "Continente": "África",
+    "Población": 4937374,
+    "Superficie": 111369
+  },
+  {
+    "Pais": "Libia",
+    "Capital": "Trípoli",
+    "Continente": "África",
+    "Población": 6777452,
+    "Superficie": 1759540
+  },
+  {
+    "Pais": "Liechtenstein",
+    "Capital": "Vaduz",
+    "Continente": "Europa",
+    "Población": 38019,
+    "Superficie": 160
+  },
+  {
+    "Pais": "Lituania",
+    "Capital": "Vilna",
+    "Continente": "Europa",
+    "Población": 2759627,
+    "Superficie": 65300
+  },
+  {
+    "Pais": "Luxemburgo",
+    "Capital": "Luxemburgo",
+    "Continente": "Europa",
+    "Población": 625978,
+    "Superficie": 2586
+  },
+  {
+    "Pais": "Macedonia del Norte",
+    "Capital": "Skopie",
+    "Continente": "Europa",
+    "Población": 2082958,
+    "Superficie": 25713
+  },
+  {
+    "Pais": "Madagascar",
+    "Capital": "Antananarivo",
+    "Continente": "África",
+    "Población": 26969307,
+    "Superficie": 587041
+  },
+  {
+    "Pais": "Malaui",
+    "Capital": "Lilongüe",
+    "Continente": "África",
+    "Población": 18628747,
+    "Superficie": 118484
+  },
+  {
+    "Pais": "Malasia",
+    "Capital": "Kuala Lumpur",
+    "Continente": "Asia",
+    "Población": 31949777,
+    "Superficie": 330803
+  },
+  {
+    "Pais": "Maldivas",
+    "Capital": "Malé",
+    "Continente": "Asia",
+    "Población": 515696,
+    "Superficie": 298
+  },
+  {
+    "Pais": "Malí",
+    "Capital": "Bamako",
+    "Continente": "África",
+    "Población": 19658031,
+    "Superficie": 1240192
+  },
+  {
+    "Pais": "Malta",
+    "Capital": "La Valeta",
+    "Continente": "Europa",
+    "Población": 514564,
+    "Superficie": 316
+  },
+  {
+    "Pais": "Islas Marshall",
+    "Capital": "Majuro",
+    "Continente": "Oceanía",
+    "Población": 58791,
+    "Superficie": 181
+  },
+  {
+    "Pais": "Mauritania",
+    "Capital": "Nuakchot",
+    "Continente": "África",
+    "Población": 4525696,
+    "Superficie": 1030700
+  },
+  {
+    "Pais": "Mauricio",
+    "Capital": "Port Louis",
+    "Continente": "África",
+    "Población": 1265985,
+    "Superficie": 2040
+  },
+  {
+    "Pais": "México",
+    "Capital": "Ciudad de México",
+    "Continente": "América",
+    "Población": 127575529,
+    "Superficie": 1964375
+  },
+  {
+    "Pais": "Micronesia",
+    "Capital": "Palikir",
+    "Continente": "Oceanía",
+    "Población": 113815,
+    "Superficie": 702
+  },
+  {
+    "Pais": "Moldavia",
+    "Capital": "Chisináu",
+    "Continente": "Europa",
+    "Población": 4051212,
+    "Superficie": 33846
+  },
+  {
+    "Pais": "Mónaco",
+    "Capital": "Mónaco",
+    "Continente": "Europa",
+    "Población": 38964,
+    "Superficie": 2
+  },
+  {
+    "Pais": "Mongolia",
+    "Capital": "Ulán Bator",
+    "Continente": "Asia",
+    "Población": 3278290,
+    "Superficie": 1564110
+  },
+  {
+    "Pais": "Montenegro",
+    "Capital": "Podgorica",
+    "Continente": "Europa",
+    "Población": 622359,
+    "Superficie": 13812
+  },
+  {
+    "Pais": "Marruecos",
+    "Capital": "Rabat",
+    "Continente": "África",
+    "Población": 36471769,
+    "Superficie": 446550
+  },
+  {
+    "Pais": "Mozambique",
+    "Capital": "Maputo",
+    "Continente": "África",
+    "Población": 30366036,
+    "Superficie": 799380
+  },
+  {
+    "Pais": "Myanmar",
+    "Capital": "Naypyidó",
+    "Continente": "Asia",
+    "Población": 54045420,
+    "Superficie": 676578
+  },
+  {
+    "Pais": "Namibia",
+    "Capital": "Windhoek",
+    "Continente": "África",
+    "Población": 2540905,
+    "Superficie": 825615
+  },
+  {
+    "Pais": "Nauru",
+    "Capital": "Yaren",
+    "Continente": "Oceanía",
+    "Población": 10756,
+    "Superficie": 21
+  },
+  {
+    "Pais": "Nepal",
+    "Capital": "Katmandú",
+    "Continente": "Asia",
+    "Población": 28608710,
+    "Superficie": 147181
+  },
+  {
+    "Pais": "Paises Bajos",
+    "Capital": "Ámsterdam",
+    "Continente": "Europa",
+    "Población": 17466865,
+    "Superficie": 41543
+  },
+  {
+    "Pais": "Nueva Zelanda",
+    "Capital": "Wellington",
+    "Continente": "Oceanía",
+    "Población": 4822233,
+    "Superficie": 270467
+  },
+  {
+    "Pais": "Nicaragua",
+    "Capital": "Managua",
+    "Continente": "América",
+    "Población": 6545502,
+    "Superficie": 130373
+  },
+  {
+    "Pais": "Níger",
+    "Capital": "Niamey",
+    "Continente": "África",
+    "Población": 23310715,
+    "Superficie": 1267000
+  },
+  {
+    "Pais": "Nigeria",
+    "Capital": "Abuja",
+    "Continente": "África",
+    "Población": 200963599,
+    "Superficie": 923768
+  },
+  {
+    "Pais": "Noruega",
+    "Capital": "Oslo",
+    "Continente": "Europa",
+    "Población": 5378857,
+    "Superficie": 323782
+  },
+  {
+    "Pais": "Omán",
+    "Capital": "Mascate",
+    "Continente": "Asia",
+    "Población": 4974997,
+    "Superficie": 309500
+  },
+  {
+    "Pais": "Pakistán",
+    "Capital": "Islamabad",
+    "Continente": "Asia",
+    "Población": 216565318,
+    "Superficie": 881913
+  },
+  {
+    "Pais": "Palaos",
+    "Capital": "Melekeok",
+    "Continente": "Oceanía",
+    "Población": 17907,
+    "Superficie": 459
+  },
+  {
+    "Pais": "Panamá",
+    "Capital": "Ciudad de Panamá",
+    "Continente": "América",
+    "Población": 4246439,
+    "Superficie": 75417
+  },
+  {
+    "Pais": "Papúa Nueva Guinea",
+    "Capital": "Puerto Moresby",
+    "Continente": "Oceanía",
+    "Población": 8776109,
+    "Superficie": 462840
+  },
+  {
+    "Pais": "Paraguay",
+    "Capital": "Asunción",
+    "Continente": "América",
+    "Población": 7044636,
+    "Superficie": 406752
+  },
+  {
+    "Pais": "Perú",
+    "Capital": "Lima",
+    "Continente": "América",
+    "Población": 32510453,
+    "Superficie": 1285216
+  },
+  {
+    "Pais": "Filipinas",
+    "Capital": "Manila",
+    "Continente": "Asia",
+    "Población": 108116615,
+    "Superficie": 300000
+  },
+  {
+    "Pais": "Polonia",
+    "Capital": "Varsovia",
+    "Continente": "Europa",
+    "Población": 37970874,
+    "Superficie": 312685
+  },
+  {
+    "Pais": "Portugal",
+    "Capital": "Lisboa",
+    "Continente": "Europa",
+    "Población": 10295909,
+    "Superficie": 92212
+  },
+  {
+    "Pais": "Catar",
+    "Capital": "Doha",
+    "Continente": "Asia",
+    "Población": 2832067,
+    "Superficie": 11586
+  },
+  {
+    "Pais": "Rumania",
+    "Capital": "Bucarest",
+    "Continente": "Europa",
+    "Población": 19237691,
+    "Superficie": 238397
+  },
+  {
+    "Pais": "Rusia",
+    "Capital": "Moscú",
+    "Continente": "Europa",
+    "Población": 145872256,
+    "Superficie": 17098242
+  },
+  {
+    "Pais": "Ruanda",
+    "Capital": "Kigali",
+    "Continente": "África",
+    "Población": 12626950,
+    "Superficie": 26338
+  },
+  {
+    "Pais": "San Cristóbal y Nieves",
+    "Capital": "Basseterre",
+    "Continente": "América",
+    "Población": 52245,
+    "Superficie": 261
+  },
+  {
+    "Pais": "Santa Lucía",
+    "Capital": "Castries",
+    "Continente": "América",
+    "Población": 182790,
+    "Superficie": 617
+  },
+  {
+    "Pais": "San Vicente y las Granadinas",
+    "Capital": "Kingstown",
+    "Continente": "América",
+    "Población": 110211,
+    "Superficie": 389
+  },
+  {
+    "Pais": "Samoa",
+    "Capital": "Apia",
+    "Continente": "Oceanía",
+    "Población": 197097,
+    "Superficie": 2831
+  },
+  {
+    "Pais": "San Marino",
+    "Capital": "San Marino",
+    "Continente": "Europa",
+    "Población": 33785,
+    "Superficie": 61
+  },
+  {
+    "Pais": "Santo Tomé y Príncipe",
+    "Capital": "Santo Tomé",
+    "Continente": "África",
+    "Población": 211028,
+    "Superficie": 1001
+  },
+  {
+    "Pais": "Arabia Saudita",
+    "Capital": "Riad",
+    "Continente": "Asia",
+    "Población": 34268529,
+    "Superficie": 2149690
+  },
+  {
+    "Pais": "Senegal",
+    "Capital": "Dakar",
+    "Continente": "África",
+    "Población": 16296364,
+    "Superficie": 196722
+  },
+  {
+    "Pais": "Serbia",
+    "Capital": "Belgrado",
+    "Continente": "Europa",
+    "Población": 6944975,
+    "Superficie": 88361
+  },
+  {
+    "Pais": "Seychelles",
+    "Capital": "Victoria",
+    "Continente": "África",
+    "Población": 97625,
+    "Superficie": 459
+  },
+  {
+    "Pais": "Sierra Leona",
+    "Capital": "Freetown",
+    "Continente": "África",
+    "Población": 7813215,
+    "Superficie": 71740
+  },
+  {
+    "Pais": "Singapur",
+    "Capital": "Singapur",
+    "Continente": "Asia",
+    "Población": 5638676,
+    "Superficie": 710
+  },
+  {
+    "Pais": "Eslovaquia",
+    "Capital": "Bratislava",
+    "Continente": "Europa",
+    "Población": 5459642,
+    "Superficie": 49035
+  },
+  {
+    "Pais": "Eslovenia",
+    "Capital": "Liubliana",
+    "Continente": "Europa",
+    "Población": 2078938,
+    "Superficie": 20273
+  },
+  {
+    "Pais": "Islas Salomón",
+    "Capital": "Honiara",
+    "Continente": "Oceanía",
+    "Población": 669823,
+    "Superficie": 28896
+  },
+  {
+    "Pais": "Somalia",
+    "Capital": "Mogadiscio",
+    "Continente": "África",
+    "Población": 15442905,
+    "Superficie": 637657
+  },
+  {
+    "Pais": "Sudáfrica",
+    "Capital": "Ciudad del Cabo",
+    "Continente": "África",
+    "Población": 58558270,
+    "Superficie": 1221037
+  },
+  {
+    "Pais": "Sudán del Sur",
+    "Capital": "Yuba",
+    "Continente": "África",
+    "Población": 11062113,
+    "Superficie": 644329
+  },
+  {
+    "Pais": "España",
+    "Capital": "Madrid",
+    "Continente": "Europa",
+    "Población": 47076781,
+    "Superficie": 505990
+  },
+  {
+    "Pais": "Sri Lanka",
+    "Capital": "Colombo",
+    "Continente": "Asia",
+    "Población": 21413249,
+    "Superficie": 65610
+  },
+  {
+    "Pais": "Sudán",
+    "Capital": "Jartum",
+    "Continente": "África",
+    "Población": 42813238,
+    "Superficie": 1886068
+  },
+  {
+    "Pais": "Surinam",
+    "Capital": "Paramaribo",
+    "Continente": "América",
+    "Población": 581372,
+    "Superficie": 163820
+  },
+  {
+    "Pais": "Suecia",
+    "Capital": "Estocolmo",
+    "Continente": "Europa",
+    "Población": 10099265,
+    "Superficie": 450295
+  },
+  {
+    "Pais": "Suiza",
+    "Capital": "Berna",
+    "Continente": "Europa",
+    "Población": 8574832,
+    "Superficie": 41284
+  },
+  {
+    "Pais": "Siria",
+    "Capital": "Damasco",
+    "Continente": "Asia",
+    "Población": 17070135,
+    "Superficie": 185180
+  },
+  {
+    "Pais": "Taiwán",
+    "Capital": "Taipéi",
+    "Continente": "Asia",
+    "Población": 23604265,
+    "Superficie": 36193
+  },
+  {
+    "Pais": "Tayikistán",
+    "Capital": "Dusambé",
+    "Continente": "Asia",
+    "Población": 9100837,
+    "Superficie": 143100
+  },
+  {
+    "Pais": "Tanzania",
+    "Capital": "Dodoma",
+    "Continente": "África",
+    "Población": 58005463,
+    "Superficie": 947300
+  },
+  {
+    "Pais": "Tailandia",
+    "Capital": "Bangkok",
+    "Continente": "Asia",
+    "Población": 69428524,
+    "Superficie": 513120
+  },
+  {
+    "Pais": "Togo",
+    "Capital": "Lomé",
+    "Continente": "África",
+    "Población": 8082366,
+    "Superficie": 56785
+  },
+  {
+    "Pais": "Tonga",
+    "Capital": "Nukualofa",
+    "Continente": "Oceanía",
+    "Población": 104494,
+    "Superficie": 747
+  },
+  {
+    "Pais": "Trinidad y Tobago",
+    "Capital": "Puerto España",
+    "Continente": "América",
+    "Población": 1394973,
+    "Superficie": 5130
+  },
+  {
+    "Pais": "Túnez",
+    "Capital": "Túnez",
+    "Continente": "África",
+    "Población": 11694719,
+    "Superficie": 163610
+  },
+  {
+    "Pais": "Turquía",
+    "Capital": "Ankara",
+    "Continente": "Asia",
+    "Población": 83429615,
+    "Superficie": 783562
+  },
+  {
+    "Pais": "Turkmenistán",
+    "Capital": "Asjabad",
+    "Continente": "Asia",
+    "Población": 5942089,
+    "Superficie": 488100
+  },
+  {
+    "Pais": "Tuvalu",
+    "Capital": "Funafuti",
+    "Continente": "Oceanía",
+    "Población": 11792,
+    "Superficie": 26
+  },
+  {
+    "Pais": "Uganda",
+    "Capital": "Kampala",
+    "Continente": "África",
+    "Población": 44269594,
+    "Superficie": 241551
+  },
+  {
+    "Pais": "Ucrania",
+    "Capital": "Kiev",
+    "Continente": "Europa",
+    "Población": 44385155,
+    "Superficie": 603550
+  },
+  {
+    "Pais": "Emiratos Árabes Unidos",
+    "Capital": "Abu Dhabi",
+    "Continente": "Asia",
+    "Población": 9770529,
+    "Superficie": 83600
+  },
+  {
+    "Pais": "Reino Unido",
+    "Capital": "Londres",
+    "Continente": "Europa",
+    "Población": 67530172,
+    "Superficie": 243610
+  },
+  {
+    "Pais": "Estados Unidos de América",
+    "Capital": "Washington D. C.",
+    "Continente": "América",
+    "Población": 330221000,
+    "Superficie": 9833517
+  },
+  {
+    "Pais": "Uruguay",
+    "Capital": "Montevideo",
+    "Continente": "América",
+    "Población": 3461734,
+    "Superficie": 176215
+  },
+  {
+    "Pais": "Uzbekistán",
+    "Capital": "Taskent",
+    "Continente": "Asia",
+    "Población": 33580650,
+    "Superficie": 448978
+  },
+  {
+    "Pais": "Vanuatu",
+    "Capital": "Port Vila",
+    "Continente": "Oceanía",
+    "Población": 299882,
+    "Superficie": 12189
+  },
+  {
+    "Pais": "Ciudad del Vaticano",
+    "Capital": "Ciudad del Vaticano",
+    "Continente": "Europa",
+    "Población": 799,
+    "Superficie": 0.44
+  },
+  {
+    "Pais": "Venezuela",
+    "Capital": "Caracas",
+    "Continente": "América",
+    "Población": 28515829,
+    "Superficie": 916445
+  },
+  {
+    "Pais": "Vietnam",
+    "Capital": "Hanói",
+    "Continente": "Asia",
+    "Población": 96462106,
+    "Superficie": 331212
+  },
+  {
+    "Pais": "Yemen",
+    "Capital": "Saná",
+    "Continente": "Asia",
+    "Población": 29161922,
+    "Superficie": 527968
+  },
+  {
+    "Pais": "Zambia",
+    "Capital": "Lusaka",
+    "Continente": "África",
+    "Población": 17885422,
+    "Superficie": 752612
+  },
+  {
+    "Pais": "Zimbabue",
+    "Capital": "Harare",
+    "Continente": "África",
+    "Población": 14645468,
+    "Superficie": 390757
+  }
+]
