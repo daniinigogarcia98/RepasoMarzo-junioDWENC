@@ -58,11 +58,11 @@ function mostrar(datos){
       //condición de población y superficie
       console.log()
       /*a)color de fondo verde paises poblacion comprendida entre 1000000
-      de habitantes y 10000000,ademas de una superficie entre 5000000 km
+      de habitantes y 10000000,ademas de una superficie entre 500000 km
       cuadrados y 1000000 km cuadrados
       */
          if (Number(poblacion)>1000000 && Number(poblacion)<100000000
-         && Number(superficie)>5000000 && Number(superficie)<1000000){
+         && Number(superficie)>500000 && Number(superficie)<1000000){
             nuevoTR.style.backgroundColor="green"
          }
          //paises de Europa poblacion>30000000 y superficie<500000
