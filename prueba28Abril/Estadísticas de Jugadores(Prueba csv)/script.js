@@ -12,6 +12,7 @@ function MostarDatos(datos) {
     Nuevatabla.border = "1px solid black";
     Nuevatabla.style.borderCollapse = "collapse";
     Nuevatabla.style.fontSize = "20px";
+    Nuevatabla.style.textAlign="center";
     document.body.appendChild(Nuevatabla);
     const NuevaCabecera = document.createElement("thead");
     cabecera.forEach(head => {
